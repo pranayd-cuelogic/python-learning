@@ -5,3 +5,5 @@
 
 
 # Resources
+
+1. [Learn python](http://www.learnpython.org/)
